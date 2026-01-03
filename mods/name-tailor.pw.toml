@@ -1,0 +1,13 @@
+name = "Name Tailor"
+filename = "name_tailor-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VHwZAD1g/versions/WmKXcHQC/name_tailor-1.0.4.jar"
+hash-format = "sha512"
+hash = "18e69b29dcd227cb6ed30a1d56da58fd6c01695494c96a10f91e115237e01c3aedcf9ffbbb9e92130dd3cab7c3731f15118e3460efa04c5bf99378cb546ec9fa"
+
+[update]
+[update.modrinth]
+mod-id = "VHwZAD1g"
+version = "WmKXcHQC"

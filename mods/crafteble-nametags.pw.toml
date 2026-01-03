@@ -1,0 +1,13 @@
+name = "Crafteble Nametags"
+filename = "crafteble-nametags-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rn7ygToX/versions/ujKPrCEP/crafteble-nametags-1.0.0.jar"
+hash-format = "sha512"
+hash = "2769599ac2d78e7ec8d09227d66a640005af0be7f4f8b227277806af7ef524f4f3a73ff1c208a76622721046b9cbea888dd8f26066aaa5a541973b12443dcd61"
+
+[update]
+[update.modrinth]
+mod-id = "Rn7ygToX"
+version = "ujKPrCEP"

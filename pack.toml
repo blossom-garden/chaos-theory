@@ -1,0 +1,13 @@
+name = "Chaos Theory"
+author = "kodiitulip"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eaf1e7286f0539bcb4bf5a552511592fb3c9fe776efecb42ed0cba6da30400dd"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.20.1"

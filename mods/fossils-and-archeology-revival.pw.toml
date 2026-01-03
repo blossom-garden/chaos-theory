@@ -1,0 +1,13 @@
+name = "Fossils and Archeology: Revival"
+filename = "fossil-fabric-1.20.1-9.3.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IJY7IqPP/versions/H6AD9rwm/fossil-fabric-1.20.1-9.3.0.3.jar"
+hash-format = "sha512"
+hash = "5fdc2851561ea50633990f4cdf84941b0ebac4a46294864480ce17e21de4f0cb9b7792fabf51253f80389917b9c27bd8a4150d107563192e5083f04061c53af1"
+
+[update]
+[update.modrinth]
+mod-id = "IJY7IqPP"
+version = "H6AD9rwm"

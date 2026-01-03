@@ -1,0 +1,13 @@
+name = "OmniCrossbow"
+filename = "omnicrossbow-0.2.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TxqFWfQR/versions/kXtvdxTS/omnicrossbow-0.2.1%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "1ce97539cfa48200218fb03c8ed2c5c8b7cf354cbddbb8dd818f6fb73b68eddd0eaeb7f493afcfc7fa770452bd12912d5b27cbeb3a5142f77b7319e237074f0a"
+
+[update]
+[update.modrinth]
+mod-id = "TxqFWfQR"
+version = "kXtvdxTS"
